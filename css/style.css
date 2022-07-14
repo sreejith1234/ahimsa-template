@@ -120,6 +120,9 @@ hr {
 	content: "" !important;
 	transition: width 0.2s !important;
 }
+.navbar-header{
+	display:flex;
+}
 .navbar-toggle {
 	border-radius: 0;
 }
